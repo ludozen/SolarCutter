@@ -21,6 +21,12 @@ body {
 }
 
 .main {
-  padding: 40px 15px;
-  text-align: center;
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.footer p {
+    margin: auto;
+    color: #3d3d3d;
+    text-align: center;
 }
