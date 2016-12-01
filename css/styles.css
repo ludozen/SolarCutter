@@ -8,7 +8,7 @@ body {
 }
 
 .jumbotron { 
-    background-image: url("http://mobo.co.uk/wp-content/uploads/2014/11/Website-Design-Background.png");
+    background-image: url("/images/background.jpg");
     padding-top:10px;
     width: 100%;
     height: 400px;
